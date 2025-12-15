@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frahi\\OneDrive - Coll\u00E8ge Lionel-Groulx\\Documents\\GitHub\\C-Fordnike\\PacManCodeDepartEtudiantPFI_2025\\PacManCodeDepartEtudiantPFI_2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10D25291-8AB1-4897-989A-E5DF874875AA}|PacManCodeDepartEtudiantPFI_2025\\PacManCodeDepartEtudiantPFI_2025.csproj|c:\\users\\frahi\\onedrive - coll\u00E8ge lionel-groulx\\documents\\github\\c-fordnike\\pacmancodedepartetudiantpfi_2025\\pacmancodedepartetudiantpfi_2025\\pacmancodedepartetudiantpfi_2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10D25291-8AB1-4897-989A-E5DF874875AA}|PacManCodeDepartEtudiantPFI_2025\\PacManCodeDepartEtudiantPFI_2025.csproj|solutionrelative:pacmancodedepartetudiantpfi_2025\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10D25291-8AB1-4897-989A-E5DF874875AA}|PacManCodeDepartEtudiantPFI_2025\\PacManCodeDepartEtudiantPFI_2025.csproj|c:\\users\\frahi\\onedrive - coll\u00E8ge lionel-groulx\\documents\\github\\c-fordnike\\pacmancodedepartetudiantpfi_2025\\pacmancodedepartetudiantpfi_2025\\pacmancodedepartetudiantpfi_2025\\pac-man carte.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{10D25291-8AB1-4897-989A-E5DF874875AA}|PacManCodeDepartEtudiantPFI_2025\\PacManCodeDepartEtudiantPFI_2025.csproj|solutionrelative:pacmancodedepartetudiantpfi_2025\\pac-man carte.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1139582512:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pac-Man carte.csv",
+              "DocumentMoniker": "C:\\Users\\frahi\\OneDrive - Coll\u00E8ge Lionel-Groulx\\Documents\\GitHub\\C-Fordnike\\PacManCodeDepartEtudiantPFI_2025\\PacManCodeDepartEtudiantPFI_2025\\PacManCodeDepartEtudiantPFI_2025\\Pac-Man carte.csv",
+              "RelativeDocumentMoniker": "PacManCodeDepartEtudiantPFI_2025\\Pac-Man carte.csv",
+              "ToolTip": "C:\\Users\\frahi\\OneDrive - Coll\u00E8ge Lionel-Groulx\\Documents\\GitHub\\C-Fordnike\\PacManCodeDepartEtudiantPFI_2025\\PacManCodeDepartEtudiantPFI_2025\\PacManCodeDepartEtudiantPFI_2025\\Pac-Man carte.csv",
+              "RelativeToolTip": "PacManCodeDepartEtudiantPFI_2025\\Pac-Man carte.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-12-01T20:33:56.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\frahi\\OneDrive - Coll\u00E8ge Lionel-Groulx\\Documents\\GitHub\\C-Fordnike\\PacManCodeDepartEtudiantPFI_2025\\PacManCodeDepartEtudiantPFI_2025\\PacManCodeDepartEtudiantPFI_2025\\Program.cs",
+              "RelativeDocumentMoniker": "PacManCodeDepartEtudiantPFI_2025\\Program.cs",
+              "ToolTip": "C:\\Users\\frahi\\OneDrive - Coll\u00E8ge Lionel-Groulx\\Documents\\GitHub\\C-Fordnike\\PacManCodeDepartEtudiantPFI_2025\\PacManCodeDepartEtudiantPFI_2025\\PacManCodeDepartEtudiantPFI_2025\\Program.cs",
+              "RelativeToolTip": "PacManCodeDepartEtudiantPFI_2025\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T04:33:13.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

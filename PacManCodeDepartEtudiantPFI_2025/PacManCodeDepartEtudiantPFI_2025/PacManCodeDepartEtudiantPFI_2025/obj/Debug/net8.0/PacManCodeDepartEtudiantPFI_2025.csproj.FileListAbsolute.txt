@@ -1,0 +1,79 @@
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\csfml-audio-2.dll
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\csfml-graphics-2.dll
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\csfml-system-2.dll
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\csfml-window-2.dll
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\bashful.bmp
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\gagne.bmp
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\mur.bmp
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\pacman.bmp
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\perdu.bmp
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\peur.bmp
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\point.bmp
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\pokey.bmp
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\power.bmp
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\shadow.bmp
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\speedy.bmp
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\openal32.dll
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\OpenTK.dll
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.exe
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.deps.json
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.runtimeconfig.json
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.dll
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.pdb
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\sfml-audio.dll
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\sfml-graphics.dll
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\sfml-system.dll
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\sfml-window.dll
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.csproj.AssemblyReference.cache
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.AssemblyInfoInputs.cache
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.AssemblyInfo.cs
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.csproj.CoreCompileInputs.cache
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCo.1CFD29D5.Up2Date
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.dll
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\refint\PacManCodeDepartEtudiantPFI_2025.dll
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.pdb
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.genruntimeconfig.cache
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\ref\PacManCodeDepartEtudiantPFI_2025.dll
+C:\Users\Stephane Chassé\source\repos\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\Pac-Man carte.csv
+C:\Users\frahi\OneDrive - Collège Lionel-Groulx\Documents\GitHub\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frahi\OneDrive - Collège Lionel-Groulx\Documents\GitHub\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.dll
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\csfml-audio-2.dll
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\csfml-graphics-2.dll
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\csfml-system-2.dll
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\csfml-window-2.dll
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\openal32.dll
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\OpenTK.dll
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\bashful.bmp
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\gagne.bmp
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\mur.bmp
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\pacman.bmp
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\perdu.bmp
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\peur.bmp
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\point.bmp
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\pokey.bmp
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\power.bmp
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\shadow.bmp
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\images\speedy.bmp
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\Pac-Man carte.csv
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.exe
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.deps.json
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.runtimeconfig.json
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.dll
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.pdb
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\sfml-audio.dll
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\sfml-graphics.dll
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\sfml-system.dll
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\bin\Debug\net8.0\sfml-window.dll
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.csproj.AssemblyReference.cache
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.AssemblyInfoInputs.cache
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.AssemblyInfo.cs
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.csproj.CoreCompileInputs.cache
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.sourcelink.json
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCo.1CFD29D5.Up2Date
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.dll
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\refint\PacManCodeDepartEtudiantPFI_2025.dll
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.pdb
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\PacManCodeDepartEtudiantPFI_2025.genruntimeconfig.cache
+C:\ProjetCegep\C-Fordnike\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\PacManCodeDepartEtudiantPFI_2025\obj\Debug\net8.0\ref\PacManCodeDepartEtudiantPFI_2025.dll
